@@ -1,0 +1,7 @@
+c:\users\ecem.dogdu\source\repos\opp2\opp2\bin\Debug\opp2.exe.config
+c:\users\ecem.dogdu\source\repos\opp2\opp2\bin\Debug\opp2.exe
+c:\users\ecem.dogdu\source\repos\opp2\opp2\bin\Debug\opp2.pdb
+c:\users\ecem.dogdu\source\repos\opp2\opp2\obj\Debug\opp2.csprojResolveAssemblyReference.cache
+c:\users\ecem.dogdu\source\repos\opp2\opp2\obj\Debug\opp2.csproj.CoreCompileInputs.cache
+c:\users\ecem.dogdu\source\repos\opp2\opp2\obj\Debug\opp2.exe
+c:\users\ecem.dogdu\source\repos\opp2\opp2\obj\Debug\opp2.pdb
